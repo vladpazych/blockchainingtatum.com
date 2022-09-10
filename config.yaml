@@ -1,0 +1,15 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: blockchaining tatum
+theme: bear
+copyright: © Vlad Pazych
+menu:
+  main:
+  - identifier: about
+    name: about
+    weight: 10
+    url: /about
+  - identifier: blog
+    name: blog
+    weight: 11
+    url: /blog
